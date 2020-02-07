@@ -3,7 +3,7 @@
 
 ## Automating the Daily Tasks
 ### Description
-Create a Python program to update and create Excel spreadsheets.
+Python program to update and create Excel spreadsheets.
 
 ### Packages
 openpyxl
